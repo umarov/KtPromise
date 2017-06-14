@@ -1,4 +1,3 @@
-import kotlin.reflect.jvm.reflect
 
 class KtPromise<T> {
     var resolvedValue: T? = null
